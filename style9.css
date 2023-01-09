@@ -88,17 +88,16 @@ body {
         border: 1px dotted #27318b;
         clear: both;
     }
+    
     .figure1 {
-        padding: 1em;
+        justify-content: center;
         background-color: rgb(248, 241, 225);
-        margin-left: 18em;
         float: left;
         width: 25%;
         border: 8px solid rgb(0, 0, 0);
         color: rgb(0, 0, 0);
     }
     .figure2 {
-        padding: 1em;
         background-color: rgb(248, 241, 225);
         float: left;
         width: 25%;
