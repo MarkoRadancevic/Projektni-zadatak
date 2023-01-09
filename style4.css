@@ -86,10 +86,12 @@ body {
         border: 1px dotted #000000;
         clear: both;
     }
+    .center1 {
+        margin: 0 auto;
+      }
     .figure1 {
         padding: 1em;
         background-color: rgb(40, 40, 40);
-        margin: 1 0em 1em 0em;
         float: left;
         width: 25%;
         border: 8px solid rgb(0, 0, 0);
@@ -98,7 +100,6 @@ body {
     .figure2 {
         padding: 1em;
         background-color: rgb(40, 40, 40);
-        margin: 1 0em 1em 0em;
         float: left;
         width: 25%;
         border: 8px solid rgb(0, 0, 0);
@@ -107,7 +108,6 @@ body {
     .figure3 {
         padding: 1em;
         background-color: rgb(40, 40, 40);
-        margin: 1 0em 1em 0em;
         float: left;
         width: 25%;
         border: 8px solid rgb(0, 0, 0);
