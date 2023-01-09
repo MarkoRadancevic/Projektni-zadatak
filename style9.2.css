@@ -67,6 +67,9 @@ body {
     a {
         text-align: center;
     }
+    .center1 {
+        margin: 0 auto;
+      }
     .center {
         text-align: center;
         padding-bottom: 5em;
@@ -102,8 +105,6 @@ body {
         padding-right: 2em;
         background-color: #419824;
         text-align: center;
-        margin-left: 39em;
-        float: left;
         width: 10%;
         border: 0px solid rgb(39, 211, 53);
         color: rgb(39, 211, 53);
@@ -259,4 +260,5 @@ body {
             text-align: center;
         }
     }
+    
     
